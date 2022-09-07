@@ -6,7 +6,7 @@
 
 ### Screenshot - 
 
-![ATM program](https://github.com/anirudddh/Restaurant-Management-System-In-Python/blob/0345b5d6be51adc01310469c898c4ca217e30a5d/Screenshot.jpg)
+![ATM program](https://github.com/anirudddh/Student-Management-System-Project-in-Python/blob/de993f2ba014409523499064bd5e824c843bd077/Screenshot.jpg)
 
 ### Video Demo - https://youtu.be/ 
 
